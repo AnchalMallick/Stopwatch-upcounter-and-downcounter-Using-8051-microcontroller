@@ -7,4 +7,4 @@ My Role:
 (1)Tracing the PCB,analyzing the circuit diagram.
 (2)Witing the program in assembly language.
 
-![WhatsApp Image 2021-09-23 at 11 56 48 PM](https://user-images.githubusercontent.com/65439177/134563638-0cdc4673-cb0b-4342-95c0-e0100754242c.jpeg)
+
