@@ -8,4 +8,5 @@ Six **seven segment displays** have been used to display the counter value.We ha
 (1)Tracing the PCB,analyzing the circuit diagram.
 (2)Writing the program in assembly language.**
 
-
+**demonstration of project:**
+https://youtu.be/ybp-wZRrs5E
